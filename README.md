@@ -1,2 +1,16 @@
-# zs-list
-zombie swarm addons
+
+<div align="left">
+  <img height="200" src="https://github.com/byoreo/icons/blob/main/zspluginlist.png"  />
+</div>
+
+###
+
+### ZS Versions
+plugin  | link | owner
+------------- | ------------- | ------------- |
+zombie swarm | [click](https://github.com/byoreo/zswarm) | byoreo, qberkdc
+
+### ZS Extra Items
+plugin | link | owner
+------------- | ------------- | ------------- |
+null | null | null
