@@ -5,12 +5,12 @@
 
 ###
 
-### ZS Versions
+### zswarm versions
 plugin  | link | owner
 ------------- | ------------- | ------------- |
 zswarm | [click](https://github.com/byoreo/zswarm) | byoreo, qberkdc
 
-### ZS Extra Items
+### zswarm extra items
 plugin | link | owner
 ------------- | ------------- | ------------- |
 null | null | null
