@@ -8,7 +8,7 @@
 ### zswarm versions
 plugin  | link | owner
 ------------- | ------------- | ------------- |
-zswarm | [click](https://github.com/byoreo/zswarm) | byoreo, qberkdc
+zswarm | [click](https://github.com/byoreo/zombie_swarm) | byoreo, qberkdc
 
 ### zswarm extra items
 plugin | link | owner
